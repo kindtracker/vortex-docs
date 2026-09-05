@@ -16,9 +16,7 @@ You will see:
 print("Hello, world!")
 ```
 Then playtest the game, you will see "Hello, world!" in the output. Now, let's spawn a part in Workspace.
-First we need to get Workspace using the game's service functions.
 
-We need to create a part
 ```lua
 local part = Instance.new("Part")
 ```
